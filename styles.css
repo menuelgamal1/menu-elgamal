@@ -6,13 +6,13 @@ body {
     background-color: #0f1822;
     display: flex;
     justify-content: space-between;
-    padding: 10px 50px;
+    padding: 10px 40px;
     border-radius: 0 0 30px 30px;
     }
 .header-text {
     color: white;
     font-family: 'Playpen Sans Arabic', sans-serif;
-    font-size: 20px;}
+    font-size: 10px;}
 .header-text2 {
     color: white;
 }
@@ -63,15 +63,4 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
-}
-@media (max-width: 768px) {
-  .menu-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 480px) {
-  .menu-grid {
-    grid-template-columns: 1fr;
-  }
 }
