@@ -66,7 +66,7 @@ body {
     gap: 20px;
 }
 .call {
-    background-color: yellow;
+    background-color: red;
     color: white;
     font-family: 'Playpen Sans Arabic', sans-serif;
     font-size: 20px;
@@ -74,3 +74,5 @@ body {
     padding: 10px 20px;
     border-radius: 10px;
 }
+.call-block {
+    text-align: center;
