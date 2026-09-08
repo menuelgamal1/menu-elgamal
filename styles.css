@@ -9,7 +9,7 @@ body {
     padding: 10px 40px;
     border-radius: 0 0 30px 30px;
     }
-.header-text h1{
+.header-text {
     color: white;
     font-family: 'Playpen Sans Arabic', sans-serif;
     font-size: 10px;
